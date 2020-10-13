@@ -10,3 +10,7 @@ række 3: 6
 række 4: 4 + 6 ( de 2 foregrående rækker - række2 + række3 )
 række 5: 10 + 6 ( de 2 foregående rækker - række3 + række4 ) 
 resultat: 2 + 4 + 6 + 10 + 16 = 38 sten
+
+
+Hej hej
+ Stefanovic
