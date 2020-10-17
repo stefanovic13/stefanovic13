@@ -12,7 +12,7 @@ function MatchUsersOfInterest(){
       for (let j = i+1; j <  ArrayofUsers.length; j++) {
         const user1 =  ArrayofUsers[j];
         //if both have same interests, they are a match
-        if (user.interest== user1.interest) {
+        if (user.interest == user1.interest) {
           //we return the firstname of the matches  
           return `${user.firstName} is matched with ${user1.firstName}`;
         }
@@ -22,3 +22,4 @@ function MatchUsersOfInterest(){
   
 //now we export our match
 module.exports = MatchUsersOfInterest;
+

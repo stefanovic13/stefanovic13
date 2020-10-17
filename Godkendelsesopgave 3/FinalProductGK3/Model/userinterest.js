@@ -4,3 +4,5 @@ userInterestArray= ["Hygge", "Movies", "Sports", "Finance", "Programming", "Part
 
 //we finally export our array
 module.exports = userInterestArray;
+
+

@@ -40,3 +40,4 @@ class Images{
 //now we create an array of our classes, and export them.
 ArrayOfClasses = [User, FreeUser, PaymentUser, Images];
 module.exports = ArrayOfClasses
+

@@ -48,7 +48,7 @@ server.put('/Users/Images', userController, ImageController)
 server.delete('/Delete', userController)
 server.post('/login', loginController)
 server.put('/Created', FreeUserController)
-server.delete('/Delete', PaymentUserController)
+server.delete('/Delete/PaymentUser', PaymentUserController)
 
 //our server listens at port 4000, we use dollar to refer back to our port
 server.listen(port, function() {
